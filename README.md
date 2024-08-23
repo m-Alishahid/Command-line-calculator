@@ -62,12 +62,8 @@ Result: 35
   <li>User-friendly CLI interface powered by Inquirer.js</li>
   <li>Lightweight and requires no installation</li>
   <li>Fully implemented in TypeScript for safer and cleaner code</li>
-</ul>
 
-<h2>🔗 Useful Links</h2>
-
-<ul>
-  <li><a href="https://github.com/your-repo-link">GitHub Repository</a></li>
+ 
 </ul>
 
 <p align="center">Made with ❤️ by <strong>M.A.S</strong></p>
